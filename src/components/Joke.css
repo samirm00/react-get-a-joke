@@ -1,0 +1,39 @@
+.joke {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #353030;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 50px 0;
+}
+
+.joke-text {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+button {
+    font-family: fantasy;
+    background-color: #3498db;
+    font-size: 18px;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 15px;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+.red {
+    background-color: #f31a01;
+}
+
+.green {
+    background-color: #27ae60;
+}
+
+.btn-container {
+    margin-top: 30px;
+}

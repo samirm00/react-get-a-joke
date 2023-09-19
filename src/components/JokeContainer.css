@@ -1,0 +1,20 @@
+.container {
+    margin: 10px auto;
+    padding: 20px;
+    width: 80%;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.btn-wrapper button {
+    padding: 10px 30px;
+}
+
+.btn {
+    font-size: 25px;
+}
